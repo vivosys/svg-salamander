@@ -11,7 +11,7 @@
 	<!-- TODO Mark: replace with com.kitfox -->
 	<groupId>com.kitfox</groupId>
 	<artifactId>kitfox-svg-salamander</artifactId>
-	<version>1.0.8</version>
+	<version>1.0.8.vivo_1</version>
 	<packaging>bundle</packaging>
 
 	<name>${project.artifactId}</name>
